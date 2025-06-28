@@ -1,6 +1,5 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#4BB543;">Rakesh Kumar Mishra</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI-in-Agriculture Innovator | 🚀 Open Source Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4BB543;">Rakesh Kumar Mishra</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI in Agriculture | 🚀 Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mishrarakesh-1902&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -10,32 +9,48 @@
 
 ## 🧑‍💻 About Me
 
-🎓 CSE @ VIT Bhopal | Robotics Club - Coding Team  
-🌾 Blending technology with farming to solve rural problems  
-🔭 Currently working on: **[Wanderlust - Rental Booking App](https://majorproject-lg4r.onrender.com)**  
-📚 Currently learning: **Docker**, **DevOps Fundamentals**  
-📫 Email: [mishrarakeshkumar766@gmail.com](mailto:mishrarakeshkumar766@gmail.com)  
-📂 Portfolio: [GitHub Projects](https://github.com/mishrarakesh-1902)
+- 🌾 AI + AgriTech innovator from a rural background  
+- 🔭 Building: [Wanderlust Booking App](https://majorproject-lg4r.onrender.com)  
+- 🌱 Learning: Docker, CI/CD  
+- 📬 Email: [mishrarakeshkumar766@gmail.com](mailto:mishrarakeshkumar766@gmail.com)  
+- 💼 Portfolio: [GitHub Projects](https://github.com/mishrarakesh-1902)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects with Previews
 
-### 🧑‍🌾 Farm Market – AI Farming Platform  
-> Full-stack Django + ML crop & yield prediction + direct market for farmers  
-🔗 [Live Demo](https://farm-market-project-8.onrender.com) | 🛠 Django, Python, SQLite, ML
+### 🌾 Farm Market – AI-Powered Smart Farming Platform  
+![Farm Market](https://github.com/mishrarakesh-1902/farm-market/assets/your-gif-id/farmmarket.gif)  
+An ML-integrated Django platform for crop prediction, yield forecasting & direct farmer-buyer selling.
+
+🔗 [Live Demo](https://farm-market-project-8.onrender.com) | 🛠 Django, Python, SQLite, ML  
+📂 [GitHub Repo](https://github.com/mishrarakesh-1902/farm-market)
+
+---
 
 ### 🏠 Wanderlust – Rental Booking Web App  
-> Interactive booking system with Mapbox, ratings, reviews, & auth  
-🔗 [Live Demo](https://majorproject-lg4r.onrender.com) | 🛠 MERN Stack + Mapbox
+![Wanderlust](https://github.com/mishrarakesh-1902/wanderlust/assets/your-gif-id/wanderlust.gif)  
+Interactive rental booking with Mapbox, reviews, search filters, and auth.
 
-### 🛒 E-Shopper – Online Shopping Platform  
-> E-commerce site with user/cart auth & admin tools  
-🔗 [Live Demo](https://e-commerce-4-l3fc.onrender.com) | 🛠 Django, JS, CSS, SQLite
+🔗 [Live Demo](https://majorproject-lg4r.onrender.com) | 🛠 MERN, Mapbox  
+📂 [GitHub Repo](https://github.com/mishrarakesh-1902/wanderlust)
 
-### 🚦 Traffic Detection – YOLOv4 + Streamlit  
-> Real-time traffic monitoring using CV and object detection  
-🔗 [GitHub Repo](https://github.com/mishrarakesh-1902/traffic-detection) | 🛠 Python, OpenCV, Streamlit
+---
+
+### 🛒 E-Shopper – Full-Stack E-commerce  
+![E-Shopper](https://github.com/mishrarakesh-1902/e-commerce/assets/your-gif-id/eshopper.gif)  
+Cart system, brand registration, product listings, and admin interface with Django.
+
+🔗 [Live Demo](https://e-commerce-4-l3fc.onrender.com) | 🛠 Django, JS, SQLite  
+📂 [GitHub Repo](https://github.com/mishrarakesh-1902/e-commerce)
+
+---
+
+### 🚦 Traffic Detection – YOLOv4 + Streamlit Dashboard  
+![Traffic Detection](https://github.com/mishrarakesh-1902/traffic-detection/assets/your-gif-id/traffic.gif)  
+Real-time vehicle detection using YOLOv4 with live visualization in Streamlit.
+
+📂 [GitHub Repo](https://github.com/mishrarakesh-1902/traffic-detection) | 🛠 Python, OpenCV, Streamlit
 
 ---
 
@@ -65,14 +80,14 @@
 - ✅ Full Stack MERN – Apna College  
 - ✅ React.js & Python – Great Learning  
 - ✅ OOP in C++ – Coding Ninjas  
-- ✅ Robotics Club – Coding Event Organizer
+- ✅ Robotics Club – Event Organizer
 
 ---
 
 ## 🧠 Fun Fact
 
 > *“I don’t just build apps—I build impact.”*  
-Coming from a rural background, I build full-stack platforms that empower **real farmers with AI**. Whether it's smart crop prediction or removing middlemen—**I use code to bridge the gap** between rural challenges and tech solutions. 🌱🤖
+Raised in a rural village, I use ML, full-stack dev, and OpenAI tools to **solve real-world agri problems**—empowering farmers with tech built *for the fields, from the fields.* 🌱🚜🤖
 
 ---
 
@@ -80,8 +95,8 @@ Coming from a rural background, I build full-stack platforms that empower **real
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rakesh-kumar-b64934284/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/_rakesh__mishra__"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:mishrarakeshkumar766@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/_rakesh__mishra__"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.leetcode.com/_rakesh__mishra__"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
 </p>
 
@@ -89,9 +104,8 @@ Coming from a rural background, I build full-stack platforms that empower **real
 
 ## 📄 Resume
 
-📂 [View My Resume](https://drive.google.com/file/d/1AIZAL1LaVg7o3_2puod7VWDpcQOA73VQ/view?usp=drivesdk)
+📂 [Download My Resume (Google Drive)](https://drive.google.com/file/d/1AIZAL1LaVg7o3_2puod7VWDpcQOA73VQ/view?usp=drivesdk)
 
 ---
 
-⭐ *If you like what I do, consider giving a ⭐ to my projects!*  
-🌟 *Let’s build something meaningful—together.*
+⭐ *If you like what I do, give a ⭐ to my repos and follow for more impactful tech.*
