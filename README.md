@@ -471,22 +471,34 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=55&text=◈◈◈%20GITHUB%20TELEMETRY%20—%20LIVE%20DATA%20FEED%20◈◈◈&fontSize=24&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=55&text=◈◈◈%20GITHUB%20TELEMETRY%20—%20VERIFIED%20DATA%20FEED%20◈◈◈&fontSize=24&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishrarakesh-1902&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=000d1a&title_color=00ffff&icon_color=00ffff&text_color=7fdbff&ring_color=00ffff" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrarakesh-1902&layout=compact&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ffff&text_color=7fdbff" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarakesh-1902&theme=tokyonight&hide_border=true&background=000d1a&stroke=00ffff&ring=00ffff&fire=ff6600&currStreakLabel=7fdbff&sideLabels=7fdbff&dates=7fdbff" width="620"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrarakesh-1902&bg_color=000d1a&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&area_color=0d2a4a" width="100%"/>
-
 </div>
+
+```
+  ╔═══════════════════════════════════════════════════════════════════════════════════╗
+  ║  📡  CONTRIBUTION SCAN — LAST 12 MONTHS  ────────────────────────────────────   ║
+  ╠════════════════════════╦═════════════════════════════════════════════╦═══════════╣
+  ║  METRIC                ║  READOUT                                     ║  STATUS   ║
+  ╠════════════════════════╬═════════════════════════════════════════════╬═══════════╣
+  ║  Total Contributions   ║  935  (Jun 2025 – Jun 2026)                 ║  ✔ VERIFIED║
+  ║  Commit Composition    ║  100% Commits  ·  0% Issues/PRs/Reviews     ║  ✔ VERIFIED║
+  ║  Repos Contributed To  ║  29  (Unstop · Farm Market · Real-Time Chat ║  ✔ VERIFIED║
+  ║                        ║       + 26 others)                          ║           ║
+  ║  Longest Streak        ║  6 Days   (Dec 30, 2025 – Jan 4, 2026)      ║  ✔ VERIFIED║
+  ╠══════════════════════════════ [ LANGUAGE BREAKDOWN ] ════════════════════════════════╣
+  ║  JavaScript   31.57%   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ║  TypeScript   25.72%   ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ║  HTML         15.33%   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ║  Python        8.58%   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ║  CSS           6.70%   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ║  C++           2.10%   ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
 
 <br/>
 
