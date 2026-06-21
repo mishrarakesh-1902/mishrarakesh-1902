@@ -479,19 +479,20 @@
 
 ```
   ╔═══════════════════════════════════════════════════════════════════════════════════╗
-  ║  📡  CONTRIBUTION SCAN — LAST 12 MONTHS  ────────────────────────────────────   ║
+  ║  📡  CONTRIBUTION SCAN — LIVE READOUT  ───────────────────────────────────────   ║
   ╠════════════════════════╦═════════════════════════════════════════════╦═══════════╣
   ║  METRIC                ║  READOUT                                     ║  STATUS   ║
   ╠════════════════════════╬═════════════════════════════════════════════╬═══════════╣
-  ║  Total Contributions   ║  935  (Jun 2025 – Jun 2026)                 ║  ✔ VERIFIED║
-  ║  Commit Composition    ║  100% Commits  ·  0% Issues/PRs/Reviews     ║  ✔ VERIFIED║
-  ║  Repos Contributed To  ║  29  (Unstop · Farm Market · Real-Time Chat ║  ✔ VERIFIED║
-  ║                        ║       + 26 others)                          ║           ║
-  ║  Longest Streak        ║  6 Days   (Dec 30, 2025 – Jan 4, 2026)      ║  ✔ VERIFIED║
+  ║  Total Contributions   ║  295   (Jun 25, 2024 – Present)             ║  ✔ VERIFIED║
+  ║  Total Commits (1yr)   ║  205                                         ║  ✔ VERIFIED║
+  ║  Total Stars Earned    ║  0                                           ║  ✔ VERIFIED║
+  ║  Total PRs / Issues    ║  0  /  0                                     ║  ✔ VERIFIED║
+  ║  Current Streak        ║  0  Days   (as of Jun 21)                    ║  ✔ VERIFIED║
+  ║  Longest Streak        ║  6  Days   (Dec 30, 2025 – Jan 4)            ║  ✔ VERIFIED║
   ╠══════════════════════════════ [ LANGUAGE BREAKDOWN ] ════════════════════════════════╣
   ║  JavaScript   31.57%   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
   ║  TypeScript   25.72%   ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
-  ║  HTML         15.33%   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ║  HTML         25.33%   ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
   ║  Python        8.58%   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
   ║  CSS           6.70%   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
   ║  C++           2.10%   ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
