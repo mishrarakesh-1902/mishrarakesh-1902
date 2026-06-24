@@ -467,41 +467,67 @@
 
 ---
 
-<!-- ══════════════ GITHUB TELEMETRY ══════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════ GITHUB TELEMETRY — AUTO-UPDATING LIVE FEED ══════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=55&text=◈◈◈%20GITHUB%20TELEMETRY%20—%20VERIFIED%20DATA%20FEED%20◈◈◈&fontSize=24&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=55&text=◈◈◈%20GITHUB%20TELEMETRY%20—%20AUTO-UPDATING%20LIVE%20FEED%20◈◈◈&fontSize=22&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
 
 </div>
 
+<br/>
+
+<!-- ── SNAPSHOT: last verified Jun 2026 ──────────────────────────────── -->
+<!-- ── All widgets below pull LIVE data from GitHub API on every visit ── -->
+
 ```
   ╔═══════════════════════════════════════════════════════════════════════════════════╗
-  ║  📡  CONTRIBUTION SCAN — LIVE READOUT  ───────────────────────────────────────   ║
-  ╠════════════════════════╦═════════════════════════════════════════════╦═══════════╣
-  ║  METRIC                ║  READOUT                                     ║  STATUS   ║
-  ╠════════════════════════╬═════════════════════════════════════════════╬═══════════╣
-  ║  Total Contributions   ║  295   (Jun 25, 2024 – Present)             ║  ✔ VERIFIED║
-  ║  Total Commits (1yr)   ║  205                                         ║  ✔ VERIFIED║
-  ║  Total Stars Earned    ║  0                                           ║  ✔ VERIFIED║
-  ║  Total PRs / Issues    ║  0  /  0                                     ║  ✔ VERIFIED║
-  ║  Current Streak        ║  0  Days   (as of Jun 21)                    ║  ✔ VERIFIED║
-  ║  Longest Streak        ║  6  Days   (Dec 30, 2025 – Jan 4)            ║  ✔ VERIFIED║
-  ╠══════════════════════════════ [ LANGUAGE BREAKDOWN ] ════════════════════════════════╣
-  ║  JavaScript   31.57%   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
-  ║  TypeScript   25.72%   ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
-  ║  HTML         25.33%   ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
-  ║  Python        8.58%   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
-  ║  CSS           6.70%   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
-  ║  C++           2.10%   ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         ║
+  ║  📡  CONTRIBUTION SNAPSHOT — VERIFIED Jun 2026                                   ║
+  ╠════════════════════════╦══════════════════════════════════════════════╦══════════╣
+  ║  METRIC                ║  READOUT                                      ║  STATUS  ║
+  ╠════════════════════════╬══════════════════════════════════════════════╬══════════╣
+  ║  Total Contributions  ║  1,153  (Jun 25, 2024 – Present)                ║  ✔ REAL  ║
+  ║  Commit Composition    ║  100% Commits · 0% PRs / Issues / Reviews    ║  ✔ REAL  ║
+  ║  Repos Contributed To  ║  29  (priv · farm_market · Real-time-chat    ║  ✔ REAL  ║
+  ║                        ║       + 26 others)                            ║          ║
+  ║  Current Streak        ║  0 Days   (last active: Jun 24, 2026)         ║  ✔ REAL  ║
+  ║  Longest Streak        ║  46 Days  (Dec 10, 2025 – Jan 24, 2026)      ║  ✔ REAL  ║
+  ╠══════════════════════════════ [ LANGUAGE BREAKDOWN ] ═══════════════════════════╣
+  ║  JavaScript   31.57%   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░           ║
+  ║  TypeScript   25.72%   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░           ║
+  ║  HTML         25.33%   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░           ║
+  ║  Python        8.58%   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░           ║
+  ║  CSS           6.70%   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░           ║
+  ║  C++           2.10%   ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░           ║
   ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
+
+<!-- ══ LIVE DYNAMIC WIDGETS — auto-refresh on every GitHub profile visit ══ -->
 
 <div align="center">
 
 <br/>
+
+<!-- ROW 1: Stats card + Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=mishrarakesh-1902&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ffff&icon_color=00ffff&text_color=7fdbff&ring_color=00ffff" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrarakesh-1902&layout=compact&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ffff&text_color=7fdbff&langs_count=6" height="180"/>
+
+<br/><br/>
+
+<!-- ROW 2: Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarakesh-1902&theme=tokyonight&hide_border=true&background=000d1a&stroke=00ffff&ring=00ffff&fire=ff6600&currStreakLabel=7fdbff&sideLabels=7fdbff&dates=7fdbff" width="640"/>
+
+<br/><br/>
+
+<!-- ROW 3: Activity contribution graph — mirrors GitHub's green grid -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrarakesh-1902&bg_color=000d1a&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&area_color=0d2a4a&custom_title=◈%20CONTRIBUTION%20GRID%20—%20LIVE%20TELEMETRY%20◈" width="100%"/>
+
+<br/>
+
+</div>
 
 <!-- ══════════════ NEON DIVIDER ══════════════ -->
 <div align="center">
