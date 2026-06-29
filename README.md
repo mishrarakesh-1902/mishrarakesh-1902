@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<!-- ══════════════ ANIMATED 3D CYBER HEADER ══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:050520,50:0a0a3e,80:0d1b5e,100:0a2a8e&height=300&section=header&text=RAKESH%20KUMAR&fontSize=85&fontColor=00ffff&animation=fadeIn&fontAlignY=42&stroke=00ffff&strokeWidth=3&desc=◈%20FULL%20STACK%20ENGINEER%20%7C%20AI%20%2F%20ML%20DEVELOPER%20%7C%20CLOUD%20ARCHITECT%20◈&descSize=19&descColor=7fdbff&descAlignY=65" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%"/>
@@ -78,11 +77,8 @@
 ║   [BATTLE_02]  🏆  FINALIST  ──►  ET AI Concierge  [ Economic Times ]               ║
 ║   [BATTLE_03]  🏆  FINALIST  ──►  Solvit 2025      [ National Level ]               ║
 ║                                                                                      ║
-╠═══════════════════════════ [ DEPLOYMENT TARGET ] ════════════════════════════════════╣
-║                                                                                      ║
-║   TARGET  ──►  Fresher SWE Roles  │  Full-Stack  │  Backend  │  Remote              ║
-║   SALARY  ──►  12+ LPA (India)  │  Open to International Remote                     ║
-║   STATUS  ──►  ● ONLINE — ACTIVELY SEEKING — SIGNAL OPEN                            ║
+║   DSA  ──►  500+ Problems  ·  LeetCode + GFG  ·  Arrays · Trees · DP · Graphs      ║
+║   STATUS  ──►  ● ONLINE — ACTIVELY SEEKING — 12+ LPA │ Remote │ On-site India      ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -122,7 +118,7 @@
 
 ---
 
-<!-- ══════════════ FLAGSHIP PROJECTS — COMPACT ══════════════ -->
+<!-- ══════════════ FLAGSHIP PROJECTS ══════════════ -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=50&text=◈◈◈%20MISSION%20DOSSIER%20—%20FLAGSHIP%20PROJECTS%20◈◈◈&fontSize=20&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
 </div>
@@ -131,8 +127,8 @@
 
 | ⚡ PROJECT | STACK | KEY METRICS | LINK |
 |:---|:---|:---|:---:|
-| 🚗 **RideFlow** — Real-Time Ride Hailing | React · Node · Socket.IO · WebRTC · AWS · Docker · K8s · Redis | 1,000+ concurrent users · sub-500ms latency · 99.9% uptime | — |
-| 🌾 **Farm Market** — AI Agriculture Platform | Django · Python · scikit-learn · XGBoost · LightGBM · PostgreSQL | 99.5% ML accuracy · 20+ vendors · 10K+ farmers reached | [🔗 Live](https://farm-market-project-8.onrender.com) |
+| 🚗 **RideFlow** — Real-Time Ride Hailing | React · Node · Socket.IO · WebRTC · AWS · Docker · K8s | 1,000+ concurrent users · sub-500ms latency · 99.9% uptime | — |
+| 🌾 **Farm Market** — AI Agriculture Platform | Django · Python · scikit-learn · XGBoost · PostgreSQL | 99.5% ML accuracy · 20+ vendors · 10K+ farmers reached | [🔗 Live](https://farm-market-project-8.onrender.com) |
 | 💬 **Real-Time Chat & Video App** | React · TypeScript · Node · MongoDB · Socket.IO · WebRTC | P2P encrypted calls · JWT auth · push notifications | — |
 | 🤖 **ET AI Concierge** 🏆 *ET Finalist* | Next.js · Express · MongoDB · GPT-4 · Gemini Pro | Dual LLM orchestration · ROI model · microservices arch | — |
 | 🏠 **Wanderlust** — Rental Booking | Node · Express · MongoDB · Mapbox · Cloudinary | Geo-based search · role-based auth · full CRUD | [🔗 Live](https://majorproject-lg4r.onrender.com) |
@@ -141,27 +137,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
----
-
-<!-- ══════════════ ALGORITHM WARFARE ══════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=50&text=◈◈◈%20ALGORITHM%20WARFARE%20—%20COMBAT%20STATS%20◈◈◈&fontSize=22&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
-</div>
-
-<br/>
-
-```
-  ╔═══════════════════════════════════════════════════════════════════════════════════╗
-  ║         ⚔  ALGORITHM WARFARE — GLOBAL LEADERBOARD ENTRY  ⚔                      ║
-  ╠═══════════════════════════════════════════════════════════════════════════════════╣
-  ║   LeetCode       │  500+ Problems  │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ●  ACTIVE           ║
-  ║   GeeksForGeeks  │  Active         │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  ●  ACTIVE           ║
-  ╠═══════════════════════════════════════════════════════════════════════════════════╣
-  ║  ✔ Arrays & Strings  ✔ Trees & Graphs  ✔ Dynamic Programming  ✔ Backtracking     ║
-  ║  ✔ Sliding Window    ✔ Two Pointer     ✔ Binary Search        ✔ Heaps / PQ       ║
-  ╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -208,35 +183,7 @@
 | 🏆 | **Hackathon Finalist** — Solvit 2025 | National Level | 2025 |
 | 💻 | **500+ DSA Problems** Solved | LeetCode + GFG | Ongoing |
 
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
-
-<!-- ══════════════ ESTABLISH CONNECTION ══════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=50&text=◈◈◈%20ESTABLISH%20CONNECTION%20◈◈◈&fontSize=22&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
-
-</div>
-
 <br/>
-
-```
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║   ████  SIGNAL DETECTED — OPEN CHANNEL FOR COLLABORATION  ████           ║
-  ║                                                                          ║
-  ║   ◉  TARGET    ──►  Internships  │  Fresher SWE Roles                   ║
-  ║   ◉  MODE      ──►  Remote Work  │  On-site India  │  Freelance          ║
-  ║   ◉  PACKAGE   ──►  12+ LPA (India)  │  International Remote            ║
-  ║   ◉  STATUS    ──►  ██ ONLINE ██  —  ACTIVELY SEEKING  —  PING ME       ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-b64934284/)
 [![GitHub](https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishrarakesh-1902)
@@ -248,5 +195,5 @@
 
 </div>
 
-<!-- ══════════════ ANIMATED FOOTER ══════════════ -->
+<!-- ══════════════ FOOTER ══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a8e,40:0d1b5e,70:050520,100:000000&height=130&section=footer&text=⚡%20UNIT%20RAKESH_KUMAR%20—%20SYSTEMS%20ONLINE%20—%20READY%20TO%20DEPLOY%20⚡&fontSize=17&fontColor=00ffff&animation=fadeIn&fontAlignY=65" />
