@@ -74,10 +74,6 @@
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,postman,vscode&theme=dark&perline=5" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&height=40&lines=React+%7C+Next.js+%7C+Node.js;Django+%7C+FastAPI+%7C+PostgreSQL;AWS+%7C+Docker+%7C+Kubernetes" />
-
 </div>
 
 <div align="center">
