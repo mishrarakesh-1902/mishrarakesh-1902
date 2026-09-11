@@ -80,27 +80,8 @@
 
 ---
 
-<!-- ══════════════ FLAGSHIP PROJECTS ══════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=50&text=◈◈◈%20MISSION%20DOSSIER%20—%20FLAGSHIP%20PROJECTS%20◈◈◈&fontSize=20&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
-</div>
 
-<br/>
 
-| ⚡ PROJECT | STACK | KEY METRICS | LINK |
-|:---|:---|:---|:---:|
-| 🚗 **RideFlow** — Real-Time Ride Hailing | React · Node · Socket.IO · WebRTC · AWS · Docker · K8s | 1,000+ concurrent users · sub-500ms latency · 99.9% uptime | — |
-| 🌾 **Farm Market** — AI Agriculture Platform | Django · Python · scikit-learn · XGBoost · PostgreSQL | 99.5% ML accuracy · 20+ vendors · 10K+ farmers reached | [🔗 Live](https://farm-market-project-8.onrender.com) |
-| 💬 **Real-Time Chat & Video App** | React · TypeScript · Node · MongoDB · Socket.IO · WebRTC | P2P encrypted calls · JWT auth · push notifications | — |
-| 🤖 **ET AI Concierge** 🏆 *ET Finalist* | Next.js · Express · MongoDB · GPT-4 · Gemini Pro | Dual LLM orchestration · ROI model · microservices arch | — |
-| 🏠 **Wanderlust** — Rental Booking | Node · Express · MongoDB · Mapbox · Cloudinary | Geo-based search · role-based auth · full CRUD | [🔗 Live](https://majorproject-lg4r.onrender.com) |
-| 🚦 **Traffic Detection System** | Python · YOLOv4 · OpenCV · Streamlit | Real-time vehicle counting · edge-hardware ready | [🔗 Repo](https://github.com/mishrarakesh-1902/traffic-detection) |
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
 
 <!-- ══════════════ GITHUB TELEMETRY ══════════════ -->
 <div align="center">
