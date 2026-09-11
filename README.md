@@ -44,44 +44,6 @@
 
 ---
 
-<!-- ══════════════ IDENTITY TERMINAL ══════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=50&text=◈◈◈%20UNIT%20IDENTIFICATION%20CORE%20◈◈◈&fontSize=22&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
-</div>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║   > IDENTITY_CORE.SYS .............. [ LOADING ████████████████████████ 100% ]      ║
-╠════════════════════════════ [ PRIMARY ATTRIBUTES ] ══════════════════════════════════╣
-║                                                                                      ║
-║   UNIT_NAME     ──►  Rakesh Kumar                                                    ║
-║   DESIGNATION   ──►  Full Stack Developer  │  AI & ML Engineer                       ║
-║   INSTITUTION   ──►  VIT Bhopal University  ·  B.Tech CSE  [2023–2027]  CGPA 8.2    ║
-║   LOCATION      ──►  India  🇮🇳                                                       ║
-║                                                                                      ║
-╠═══════════════════════════ [ MISSION LOG — EXPERIENCE ] ═════════════════════════════╣
-║                                                                                      ║
-║   [EXP_01]  ──►  MERN Stack Dev Intern  @  Stellar Web Pvt. Ltd., Noida             ║
-║   [EXP_02]  ──►  Freelance Developer    @  PinakiTechLive  (Self-Operated)           ║
-║                                                                                      ║
-╠══════════════════════════ [ CERTIFICATION MATRIX ] ══════════════════════════════════╣
-║                                                                                      ║
-║   [CERT_01]  ✔  AWS Solutions Architect Associate  (SAA-C03)  ──►  Amazon           ║
-║   [CERT_02]  ✔  Oracle Cloud Infrastructure Developer Professional  ──►  Oracle      ║
-║                                                                                      ║
-╠══════════════════════════ [ COMBAT RECORD — HACKATHONS ] ════════════════════════════╣
-║                                                                                      ║
-║   [BATTLE_01]  🏆  FINALIST  ──►  Canara Suraksha  [ Top 100 / 4,000+ teams ]       ║
-║   [BATTLE_02]  🏆  FINALIST  ──►  ET AI Concierge  [ Economic Times ]               ║
-║   [BATTLE_03]  🏆  FINALIST  ──►  Solvit 2025      [ National Level ]               ║
-║                                                                                      ║
-║   DSA  ──►  500+ Problems  ·  LeetCode + GFG  ·  Arrays · Trees · DP · Graphs      ║
-║   STATUS  ──►  ● ONLINE — ACTIVELY SEEKING — 12+ LPA │ Remote │ On-site India      ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
