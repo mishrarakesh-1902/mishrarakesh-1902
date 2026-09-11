@@ -110,23 +110,7 @@
 
 ---
 
-<!-- ══════════════ ACHIEVEMENT REGISTRY ══════════════ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=50&text=◈◈◈%20ACHIEVEMENT%20REGISTRY%20◈◈◈&fontSize=22&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
-
-<br/>
-
-| ◈ | ACHIEVEMENT | ISSUER | YEAR |
-|:---:|:---|:---|:---:|
-| ☁️ | **AWS Solutions Architect Associate** (SAA-C03) | Amazon Web Services | 2026 |
-| ☁️ | **Oracle Cloud Infrastructure** Developer Professional | Oracle | 2025 |
-| 🏆 | **Hackathon Finalist** — Canara Suraksha *(Top 100 / 4,000+ teams)* | Canara Bank | 2024 |
-| 🏆 | **Hackathon Finalist** — ET AI Concierge | Economic Times | 2024 |
-| 🏆 | **Hackathon Finalist** — Solvit 2025 | National Level | 2025 |
-| 💻 | **500+ DSA Problems** Solved | LeetCode + GFG | Ongoing |
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-b64934284/)
 [![GitHub](https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishrarakesh-1902)
