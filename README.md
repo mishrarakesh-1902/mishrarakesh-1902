@@ -4,9 +4,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:050520,50:0a0a3e,80:0d1b5e,100:0a2a8e&height=300&section=header&text=RAKESH%20KUMAR&fontSize=85&fontColor=00ffff&animation=fadeIn&fontAlignY=42&stroke=00ffff&strokeWidth=3&desc=◈%20FULL%20STACK%20ENGINEER%20%7C%20AI%20%2F%20ML%20DEVELOPER%20%7C%20CLOUD%20ARCHITECT%20◈&descSize=19&descColor=7fdbff&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050520,50:0a0a3e,100:0a2a8e&height=200&section=header&text=RAKESH%20KUMAR&fontSize=52&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%2FML%20Engineer%20%C2%B7%20AWS%20%2B%20OCI%20Certified&descSize=16&descColor=7fdbff&descAlignY=58" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%"/>
+</div>
+
+<p align="center">
+I build systems that handle real money, real users, and real failure cases, not tutorial clones. My ride-hailing platform runs HMAC-signed payment flows and an AI layer that catches fare anomalies before they cost anyone money. My agriculture platform puts a 95%+ accurate crop model in front of actual farmers, not a notebook demo. I've shipped production code for a paying freelance client, not just class projects, and I'd rather debug a race condition at 1 AM than write another to-do app.
+</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/◈──────%20LINKEDIN%20──────◈-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-b64934284/)
+[![GitHub](https://img.shields.io/badge/◈──────%20GITHUB%20──────◈-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishrarakesh-1902)
+[![Email](https://img.shields.io/badge/◈──────%20EMAIL%20──────◈-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrarakeshkumar766@gmail.com)
 
 </div>
 
