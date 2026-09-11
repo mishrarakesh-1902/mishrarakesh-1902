@@ -100,7 +100,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrarakesh1902&bg_color=000d1a&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&area_color=0d2a4a&custom_title=◈%20CONTRIBUTION%20GRID%20—%20LIVE%20TELEMETRY%20◈" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrarakesh-1902&bg_color=000d1a&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&area_color=0d2a4a&custom_title=◈%20CONTRIBUTION%20GRID%20—%20LIVE%20TELEMETRY%20◈" width="100%"/>
 
 </div>
 
@@ -121,5 +121,3 @@
 
 <!-- ══════════════ FOOTER ══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a8e,40:0d1b5e,70:050520,100:000000&height=130&section=footer&text=⚡%20UNIT%20RAKESH_KUMAR%20—%20SYSTEMS%20ONLINE%20—%20READY%20TO%20DEPLOY%20⚡&fontSize=17&fontColor=00ffff&animation=fadeIn&fontAlignY=65" />
-
-
