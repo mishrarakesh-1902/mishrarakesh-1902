@@ -112,9 +112,6 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-kumar-b64934284/)
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishrarakesh-1902)
-[![Email](https://img.shields.io/badge/◈_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrarakeshkumar766@gmail.com)
 
 <br/>
 
