@@ -80,43 +80,6 @@
 
 ---
 
-
-
-
-<!-- ══════════════ GITHUB TELEMETRY ══════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000510,100:000d1a&height=50&text=◈◈◈%20GITHUB%20TELEMETRY%20—%20AUTO-UPDATING%20LIVE%20FEED%20◈◈◈&fontSize=20&fontColor=00ffff&animation=blinking&fontAlign=50" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishrarakesh-1902&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ffff&icon_color=00ffff&text_color=7fdbff&ring_color=00ffff" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrarakesh-1902&layout=compact&theme=tokyonight&hide_border=true&bg_color=000d1a&title_color=00ffff&text_color=7fdbff&langs_count=6" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarakesh-1902&theme=tokyonight&hide_border=true&background=000d1a&stroke=00ffff&ring=00ffff&fire=ff6600&currStreakLabel=7fdbff&sideLabels=7fdbff&dates=7fdbff" width="640"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrarakesh-1902&bg_color=000d1a&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&area_color=0d2a4a&custom_title=◈%20CONTRIBUTION%20GRID%20—%20LIVE%20TELEMETRY%20◈" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
-
-
-
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mishrarakesh-1902&color=00ffff&style=for-the-badge&label=◈+TOTAL+PROFILE+SCANS+◈)
-
 </div>
 
 <!-- ══════════════ FOOTER ══════════════ -->
