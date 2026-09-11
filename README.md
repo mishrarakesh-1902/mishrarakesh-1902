@@ -64,11 +64,13 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&theme=dark&perline=5" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark&perline=5" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgres&theme=dark&perline=5" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,github&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=mysql,prisma,supabase,redis&theme=dark&perline=5" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,github&theme=dark&perline=5" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,postman,vscode&theme=dark&perline=5" />
 
@@ -77,7 +79,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
 ---
 
 </div>
